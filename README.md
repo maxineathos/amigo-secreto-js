@@ -6,6 +6,10 @@ Este projeto foi desenvolvido para treinar **lógica de programação**, **manip
 
 ---
 
+🔗 [Visualize o projeto no GitHub Pages](http://amigo-secreto-js.maxineathos.github.io/)
+
+---
+
 ## 🚀 Funcionalidades
 
 - Adicionar nomes de amigos a uma lista.
